@@ -1,0 +1,16 @@
+spec_version: "0.1.0"
+name: gitspecter
+version: 0.1.0
+description: "AI code reviewer that analyzes developer thinking, not just code"
+model:
+  preferred: claude-sonnet-4-5-20250929
+skills:
+  - code-review
+  - bug-prediction
+  - mindset-analysis
+  - truth-mode
+tags:
+  - code-review
+  - security
+  - mentorship
+  - developer-experience
