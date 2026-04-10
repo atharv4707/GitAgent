@@ -1,4 +1,5 @@
 spec_version: "0.1.0"
+# Install CLI: npm install -g @open-gitagent/gitagent
 name: gitspecter
 version: 0.1.0
 description: "AI code reviewer that analyzes developer thinking, not just code"
